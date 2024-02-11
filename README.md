@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-This is what we developed
-<img width="400" alt="animalWebsite" src="https://github.com/SohailUrRahmanGit/animal/assets/22540497/f42549a6-1bfa-4916-a321-41379f2e42d4">
+This is what I developed
 
+<img width="400" alt="animalWebsite" src="https://github.com/SohailUrRahmanGit/animal/assets/22540497/f42549a6-1bfa-4916-a321-41379f2e42d4">
 <img width="400" alt="website2" src="https://github.com/SohailUrRahmanGit/animal/assets/22540497/3cc263b7-6948-448a-9575-c8b1abac9a21">
 
 
